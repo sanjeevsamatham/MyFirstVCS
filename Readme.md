@@ -1,5 +1,6 @@
 
- decent demontrating git capabilities
+ decent demontrating git capabilities  for usage
+
 
 
 todo: need to add branching strategy
